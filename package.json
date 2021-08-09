@@ -1,0 +1,23 @@
+{
+  "name": "react-js-2019-platzi",
+  "version": "1.0.0",
+  "description": "Platzi React.js 2019 Course",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltiRequiem/reactjs-platzi-2019.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Eliaz Bobadilla <eliaz.bobadilladev@gmail.com> (https://github.com/UltiRequiem)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UltiRequiem/reactjs-platzi-2019/issues"
+  },
+  "homepage": "https://github.com/UltiRequiem/reactjs-platzi-2019#readme",
+  "devDependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
