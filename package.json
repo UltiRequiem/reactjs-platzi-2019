@@ -18,6 +18,24 @@
   },
   "homepage": "https://github.com/UltiRequiem/reactjs-platzi-2019#readme",
   "devDependencies": {
-    "create-react-app": "^4.0.3"
+    "create-react-app": "^4.0.3",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "faker": "^4.1.0",
+    "json-server": "^0.14.2",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.3.2",
+    "prettier-eslint": "^13.0.0",
+    "prettier-plugin-jsdoc": "^0.3.23"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.1.5"
   }
 }

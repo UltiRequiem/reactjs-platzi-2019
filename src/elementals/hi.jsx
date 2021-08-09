@@ -1,6 +1,6 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react'
+import ReactDOM from 'react-dom'
 
-const app = (msg) => <h1> {msg}</h1>;
+const app = (msg) => <h1> {msg}</h1>
 
-ReactDOM.render(app("Hello World"), document.getElementById("app"));
+ReactDOM.render(app('Hello World'), document.getElementById('app'))
