@@ -12,7 +12,6 @@ const CONTAINER = document.getElementById('app')
 
 ReactDOM.render(APP, CONTAINER)
 
-
 HelloMessage.propTypes = {
   name: PropTypes.string,
 }
